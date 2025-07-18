@@ -25,6 +25,12 @@ In many regions, emergency vehicles must wait at tolls for barriers to be manual
 | Deployment         | Firebase Hosting         |
 
 ## 📸 UI Samples
+![fastlane2_imresizer](https://github.com/user-attachments/assets/5cf8e595-2e25-4f75-a1ff-7a3500c50e41)     ![fastlane1_imresizer](https://github.com/user-attachments/assets/b8c45066-9872-4a9a-9cd9-667a55f81bfa)  ![fastlane3_imresizer](https://github.com/user-attachments/assets/5710e2cd-a3c8-4392-a61f-bf2a6fc6031a)  ![fastlane8_imresizer](https://github.com/user-attachments/assets/a8479dc3-5ef0-4370-90f4-d546d6dd6536) ![fastlane4_imresizer (1)](https://github.com/user-attachments/assets/c4381805-d074-4093-bd89-dbca77068f5a)
+
+
+
+
+
 
 
 
