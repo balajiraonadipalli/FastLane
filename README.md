@@ -18,14 +18,11 @@ In many regions, emergency vehicles must wait at tolls for barriers to be manual
 | Component          | Technology Used          |
 |--------------------|--------------------------|
 | Mobile App         | Jetpack Compose (Android)|
-| Dashboard          | ReactJS + Tailwind CSS   |
+| Dashboard          | ReactJS    |
 | Backend/API        | Node.js + Express        |
 | Database           | Firebase Firestore       |
 | Maps & Location    | Google Maps API          |
 | Deployment         | Firebase Hosting         |
-
-## 📸 UI Samples
-
 
 
 ## 🧪 How It Works
