@@ -26,9 +26,7 @@ In many regions, emergency vehicles must wait at tolls for barriers to be manual
 
 ## 📸 UI Samples
 
-| Emergency App | Admin Dashboard |
-|---------------|------------------|
-| ![App Screenshot](link) | ![Dashboard Screenshot](link) |
+
 
 ## 🧪 How It Works
 
